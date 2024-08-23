@@ -1,0 +1,16 @@
+p
+br
+hr
+pre
+blockquote
+cite
+abbr
+address
+bdo
+b
+strong
+i
+em
+small
+del
+div
