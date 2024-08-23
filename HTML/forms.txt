@@ -1,0 +1,22 @@
+label
+input
+placeholder
+id
+for
+action
+password
+email
+url
+tel
+number with min,max
+number range
+date
+time
+color
+checkbox
+radio
+file
+textarea(rows, cols)
+select
+option(value is the value that we will send to the backend)
+button(type submit)
