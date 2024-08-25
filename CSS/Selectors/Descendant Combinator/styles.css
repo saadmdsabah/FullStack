@@ -1,0 +1,14 @@
+#recipes{
+    background-color: blue;
+    color: white;
+}
+
+#recipes .recipe{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+#recipes h3 {
+    color: yellow;
+}

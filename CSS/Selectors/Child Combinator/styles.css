@@ -1,0 +1,11 @@
+#departments{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#departments > .department{
+    background-color: blue;
+} 
+
+#departments h2 {
+    color: blue;
+}

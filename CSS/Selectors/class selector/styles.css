@@ -1,0 +1,12 @@
+.maintitle{
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+}
+
+.tagline{
+    color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
