@@ -1,0 +1,24 @@
+#feq{
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
+    border: 5px solid black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+li:first-child{
+    background-color: red;
+}
+
+#feq h1:first-child{
+    background-color: blue;
+}
