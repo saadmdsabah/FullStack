@@ -1,0 +1,4 @@
+.title::before {
+    content: url('https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg');
+    margin-left: 10px;
+}
