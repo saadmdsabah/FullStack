@@ -215,7 +215,7 @@ select::-ms-expand {
   display: none; /* Removes arrow in IE */
 }
 
-/* Add these styles to your CSS file */
+/* Adding styling to the table */
 .exchange-table {
   width: 100%;
   border-collapse: collapse;
