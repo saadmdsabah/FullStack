@@ -1,4 +1,4 @@
-📚 #Fullstack Journey using MERN 🚀
+📚 Fullstack Journey using MERN 🚀
 
 Welcome to my Fullstack Learning Hub! 🌍 This repository is not just a showcase of projects but a living journal of my journey in mastering the MERN stack (MongoDB, Express, React, Node.js) 🛠️. Dive into the world of web development with me as I share projects, files, and code snippets along the way. 💻✨
 
