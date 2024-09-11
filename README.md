@@ -39,4 +39,4 @@ Whether you're a learner or an expert, feel free to open issues, submit PRs, or 
 
 ⭐ Don't forget to star the repo if you find my learning path helpful! Let's keep coding and sharing knowledge! ⭐
 
-#Happy Learning! 🎉👩‍💻👨‍💻
+Happy Learning! 🎉👩‍💻👨‍💻
