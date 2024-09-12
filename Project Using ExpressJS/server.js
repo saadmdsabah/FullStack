@@ -1,11 +1,28 @@
 const express = require("express")
+const path = require("path")
 const app = express();
 const PORT = 3000;
 
+app.use(express.static(path.join(__dirname, "public")))
+
+//! Home Page
 app.get("/", (req, res)=>{
-    res.json({
-        message:"Successful"
-    })
+    res.sendFile(path.join(__dirname, "views", "home.html"))
+})
+
+//! about Page
+app.get("/about", (req, res)=>{
+    res.sendFile(path.join(__dirname, "views", "about.html"));
+})
+
+//! contact Page
+app.get("/contact", (req, res)=>{
+    res.sendFile(path.join(__dirname, "views", "contact.html"));
+})
+
+//! gallery Page
+app.get("/gallery", (req, res)=>{
+    res.sendFile(path.join(__dirname, "views", "gallery.html"));
 })
 
 app.listen(PORT, ()=>{
